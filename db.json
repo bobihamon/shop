@@ -161,5 +161,27 @@
             "id": "5678901234"
         }
     ],
-    "users": []
+    "users": [
+        {
+          "name": "John",
+          "img": "seller1.jpg",
+          "surname": "Doe",
+          "balance": "1000",
+          "id": "12345"
+        },
+        {
+          "name": "Jane",
+          "img": "seller2.jpg",
+          "surname": "Smith",
+          "balance": "500",
+          "id": "67890"
+        },
+        {
+          "name": "Mike",
+          "img": "seller3.jpg",
+          "surname": "Johnson",
+          "balance": "750",
+          "id": "54321"
+        }
+      ]
 }
