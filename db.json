@@ -1,89 +1,165 @@
 {
     "products": [
         {
-          "name": "Samsung Galaxy S10",
-          "img": "s10.jpg",
-          "description": "The Samsung Galaxy S10 is a high-end smartphone that features a 6.1-inch Dynamic AMOLED display, a triple-lens rear camera setup, and a 3,400mAh battery.",
-          "price": "899.99",
-          "author_id": "1234567890",
-          "id": "1"
+            "name": "Samsung Galaxy S10",
+            "img": "s10.jpg",
+            "description": "The Samsung Galaxy S10 is a high-end smartphone that features a 6.1-inch Dynamic AMOLED display, a triple-lens rear camera setup, and a 3,400mAh battery.",
+            "price": "899.99",
+            "author_id": "1234567890",
+            "id": "1"
         },
         {
-          "name": "iPhone 11",
-          "img": "iphone11.jpg",
-          "description": "The iPhone 11 is a smartphone designed, developed, and marketed by Apple Inc. It is the thirteenth generation lower-priced iPhone, succeeding the iPhone XR.",
-          "price": "699.99",
-          "author_id": "0987654321",
-          "id": "2"
+            "name": "iPhone 11",
+            "img": "iphone11.jpg",
+            "description": "The iPhone 11 is a smartphone designed, developed, and marketed by Apple Inc. It is the thirteenth generation lower-priced iPhone, succeeding the iPhone XR.",
+            "price": "699.99",
+            "author_id": "0987654321",
+            "id": "2"
         },
         {
-          "name": "Google Pixel 4",
-          "img": "pixel4.jpg",
-          "description": "The Google Pixel 4 is a smartphone that features a 5.7-inch OLED display, dual rear cameras, and a 2,800mAh battery.",
-          "price": "799.99",
-          "author_id": "2468135790",
-          "id": "3"
+            "name": "Google Pixel 4",
+            "img": "pixel4.jpg",
+            "description": "The Google Pixel 4 is a smartphone that features a 5.7-inch OLED display, dual rear cameras, and a 2,800mAh battery.",
+            "price": "799.99",
+            "author_id": "2468135790",
+            "id": "3"
         },
         {
-          "name": "Huawei P30 Pro",
-          "img": "p30pro.jpg",
-          "description": "The Huawei P30 Pro is a flagship smartphone that features a 6.47-inch OLED display, quad rear cameras, and a 4,200mAh battery.",
-          "price": "899.99",
-          "author_id": "1357924680",
-          "id": "4"
+            "name": "Huawei P30 Pro",
+            "img": "p30pro.jpg",
+            "description": "The Huawei P30 Pro is a flagship smartphone that features a 6.47-inch OLED display, quad rear cameras, and a 4,200mAh battery.",
+            "price": "899.99",
+            "author_id": "1357924680",
+            "id": "4"
         },
         {
-          "name": "OnePlus 7T",
-          "img": "7t.jpg",
-          "description": "The OnePlus 7T is a high-end smartphone that features a 6.55-inch Fluid AMOLED display, triple rear cameras, and a 3,800mAh battery.",
-          "price": "599.99",
-          "author_id": "9876543210",
-          "id": "5"
+            "name": "OnePlus 7T",
+            "img": "7t.jpg",
+            "description": "The OnePlus 7T is a high-end smartphone that features a 6.55-inch Fluid AMOLED display, triple rear cameras, and a 3,800mAh battery.",
+            "price": "599.99",
+            "author_id": "9876543210",
+            "id": "5"
         },
         {
-          "name": "Xiaomi Mi 9",
-          "img": "mi9.jpg",
-          "description": "The Xiaomi Mi 9 is a flagship smartphone that features a 6.39-inch Super AMOLED display, triple rear cameras, and a 3,300mAh battery.",
-          "price": "499.99",
-          "author_id": "0123456789",
-          "id": "6"
+            "name": "Xiaomi Mi 9",
+            "img": "mi9.jpg",
+            "description": "The Xiaomi Mi 9 is a flagship smartphone that features a 6.39-inch Super AMOLED display, triple rear cameras, and a 3,300mAh battery.",
+            "price": "499.99",
+            "author_id": "0123456789",
+            "id": "6"
         },
         {
-          "name": "LG G8 ThinQ",
-          "img": "g8.jpg",
-          "description": "The LG G8 ThinQ is a high-end smartphone that features a 6.1-inch OLED display, dual rear cameras, and a 3,500mAh battery.",
-          "price": "699.99",
-          "author_id": "9876543210",
-          "id": "7"
+            "name": "LG G8 ThinQ",
+            "img": "g8.jpg",
+            "description": "The LG G8 ThinQ is a high-end smartphone that features a 6.1-inch OLED display, dual rear cameras, and a 3,500mAh battery.",
+            "price": "699.99",
+            "author_id": "9876543210",
+            "id": "7"
         },
         {
-          "name": "Sony Xperia 1",
-          "img": "xperia1.jpg",
-          "description": "The Sony Xperia 1 is a flagship smartphone that features a 6.5-inch OLED display, triple rear cameras, and a 3,330mAh battery.",
-          "price": "799.99",
-          "author_id": "0123456789",
-          "id": "8"
+            "name": "Sony Xperia 1",
+            "img": "xperia1.jpg",
+            "description": "The Sony Xperia 1 is a flagship smartphone that features a 6.5-inch OLED display, triple rear cameras, and a 3,330mAh battery.",
+            "price": "799.99",
+            "author_id": "0123456789",
+            "id": "8"
         },
         {
-          "name": "Motorola Moto G7",
-          "img": "g7.jpg",
-          "description": "The Motorola Moto G7 is a mid-range smartphone that features a 6.2-inch IPS LCD display, dual rear cameras, and a 3,000mAh battery.",
-          "price": "299.99",
-          "author_id": "1357924680",
-          "id": "9"
+            "name": "Motorola Moto G7",
+            "img": "g7.jpg",
+            "description": "The Motorola Moto G7 is a mid-range smartphone that features a 6.2-inch IPS LCD display, dual rear cameras, and a 3,000mAh battery.",
+            "price": "299.99",
+            "author_id": "1357924680",
+            "id": "9"
         },
         {
-          "name": "Nokia 9 PureView",
-          "img": "nokia9.jpg",
-          "description": "The Nokia 9 PureView is a flagship smartphone that features a 5.99-inch P-OLED display, penta rear cameras, and a 3,320mAh battery.",
-          "price": "699.99",
-          "author_id": "2468135790",
-          "id": "10"
+            "name": "Nokia 9 PureView",
+            "img": "nokia9.jpg",
+            "description": "The Nokia 9 PureView is a flagship smartphone that features a 5.99-inch P-OLED display, penta rear cameras, and a 3,320mAh battery.",
+            "price": "699.99",
+            "author_id": "2468135790",
+            "id": "10"
+        },
+        {
+            "name": "Samsung Galaxy S21",
+            "img": "samsung-galaxy-s21.jpg",
+            "price": 999.99,
+            "description": "The latest flagship phone from Samsung.",
+            "author_id": "12345",
+            "id": "9876543210"
+        },
+        {
+            "name": "iPhone 12 Pro",
+            "img": "iphone-12-pro.jpg",
+            "price": 1099.99,
+            "description": "Apple's high-end smartphone with a powerful camera.",
+            "author_id": "54321",
+            "id": "0123456789"
+        },
+        {
+            "name": "Google Pixel 5",
+            "img": "google-pixel-5.jpg",
+            "price": 699.99,
+            "description": "A pure Android experience with a great camera.",
+            "author_id": "98765",
+            "id": "4567890123"
+        },
+        {
+            "name": "OnePlus 8T",
+            "img": "oneplus-8t.jpg",
+            "price": 749.99,
+            "description": "A flagship killer with fast charging and smooth performance.",
+            "author_id": "54321",
+            "id": "9012345678"
+        },
+        {
+            "name": "Xiaomi Mi 11",
+            "img": "xiaomi-mi-11.jpg",
+            "price": 799.99,
+            "description": "A feature-packed phone with a high-resolution display.",
+            "author_id": "12345",
+            "id": "3456789012"
+        },
+        {
+            "name": "Sony Xperia 1 II",
+            "img": "sony-xperia-1-ii.jpg",
+            "price": 1199.99,
+            "description": "A phone designed for photography and multimedia.",
+            "author_id": "98765",
+            "id": "7890123456"
+        },
+        {
+            "name": "LG Velvet",
+            "img": "lg-velvet.jpg",
+            "price": 599.99,
+            "description": "A stylish phone with a unique design and 5G support.",
+            "author_id": "54321",
+            "id": "2345678901"
+        },
+        {
+            "name": "Motorola Edge+",
+            "img": "motorola-edge-plus.jpg",
+            "price": 999.99,
+            "description": "A flagship phone with a curved display and a large battery.",
+            "author_id": "12345",
+            "id": "6789012345"
+        },
+        {
+            "name": "Nokia 9 PureView",
+            "img": "nokia-9-pureview.jpg",
+            "price": 699.99,
+            "description": "A phone with a penta-camera setup for stunning photography.",
+            "author_id": "98765",
+            "id": "1234567890"
+        },
+        {
+            "name": "Huawei P40 Pro",
+            "img": "huawei-p40-pro.jpg",
+            "price": 899.99,
+            "description": "A phone with a powerful camera system and 5G connectivity.",
+            "author_id": "54321",
+            "id": "5678901234"
         }
-      ],
+    ],
     "users": []
-        
-            
-        
-    
 }
