@@ -82,5 +82,27 @@
       "id": "5678901234"
     }
   ],
-  "users":[]
+  "users":[
+    {
+        "name": "John",
+        "Img": "phone1.jpg",
+        "Surname": "Doe",
+        "balance": "$500",
+        "id": "123456"
+      },
+      {
+        "name": "Jane",
+        "Img": "phone2.jpg",
+        "Surname": "Smith",
+        "balance": "$350",
+        "id": "789012"
+      },
+      {
+        "name": "Mike",
+        "Img": "phone3.jpg",
+        "Surname": "Johnson",
+        "balance": "$200",
+        "id": "345678"
+      }
+  ]
 }
