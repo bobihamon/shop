@@ -1,12 +1,86 @@
 {
-    "products": [
-        {
-
-        }
-    ],
-    "users": [
-        {
-            
-        }
-    ]
+  "products":
+  [
+    {
+      "name": "Samsung Galaxy S21",
+      "img": "samsung-galaxy-s21.jpg",
+      "price": 999.99,
+      "description": "The latest flagship phone from Samsung.",
+      "author_id": "12345",
+      "id": "9876543210"
+    },
+    {
+      "name": "iPhone 12 Pro",
+      "img": "iphone-12-pro.jpg",
+      "price": 1099.99,
+      "description": "Apple's high-end smartphone with a powerful camera.",
+      "author_id": "54321",
+      "id": "0123456789"
+    },
+    {
+      "name": "Google Pixel 5",
+      "img": "google-pixel-5.jpg",
+      "price": 699.99,
+      "description": "A pure Android experience with a great camera.",
+      "author_id": "98765",
+      "id": "4567890123"
+    },
+    {
+      "name": "OnePlus 8T",
+      "img": "oneplus-8t.jpg",
+      "price": 749.99,
+      "description": "A flagship killer with fast charging and smooth performance.",
+      "author_id": "54321",
+      "id": "9012345678"
+    },
+    {
+      "name": "Xiaomi Mi 11",
+      "img": "xiaomi-mi-11.jpg",
+      "price": 799.99,
+      "description": "A feature-packed phone with a high-resolution display.",
+      "author_id": "12345",
+      "id": "3456789012"
+    },
+    {
+      "name": "Sony Xperia 1 II",
+      "img": "sony-xperia-1-ii.jpg",
+      "price": 1199.99,
+      "description": "A phone designed for photography and multimedia.",
+      "author_id": "98765",
+      "id": "7890123456"
+    },
+    {
+      "name": "LG Velvet",
+      "img": "lg-velvet.jpg",
+      "price": 599.99,
+      "description": "A stylish phone with a unique design and 5G support.",
+      "author_id": "54321",
+      "id": "2345678901"
+    },
+    {
+      "name": "Motorola Edge+",
+      "img": "motorola-edge-plus.jpg",
+      "price": 999.99,
+      "description": "A flagship phone with a curved display and a large battery.",
+      "author_id": "12345",
+      "id": "6789012345"
+    },
+    {
+      "name": "Nokia 9 PureView",
+      "img": "nokia-9-pureview.jpg",
+      "price": 699.99,
+      "description": "A phone with a penta-camera setup for stunning photography.",
+      "author_id": "98765",
+      "id": "1234567890"
+    },
+    {
+      "name": "Huawei P40 Pro",
+      "img": "huawei-p40-pro.jpg",
+      "price": 899.99,
+      "description": "A phone with a powerful camera system and 5G connectivity.",
+      "author_id": "54321",
+      "id": "5678901234"
+    }
+  ],
+  "users":[]
 }
