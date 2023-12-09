@@ -3,43 +3,43 @@
   [
     {
         "name": "Samsung Galaxy S10",
-        "img": "img/s10.webp",
+        "img": "https://raw.githubusercontent.com/bobihamon/shop/main/img/s10.webp",
         "description": "The Samsung Galaxy S10 is a high-end smartphone that features a 6.1-inch Dynamic AMOLED display, a triple-lens rear camera setup, and a 3,400mAh battery.",
         "price": "899.99",
         "author_id": "1",
-        "id": "1"
+        "id": "14324"
     },
     {
         "name": "iPhone 11",
-        "img": "img/iphone11.png",
+        "img": "https://raw.githubusercontent.com/bobihamon/shop/main/img/iphone11.png",
         "description": "The iPhone 11 is a smartphone designed, developed, and marketed by Apple Inc. It is the thirteenth generation lower-priced iPhone, succeeding the iPhone XR.",
         "price": "699.99",
         "author_id": "2",
-        "id": "2"
+        "id": "26236"
     },
     {
         "name": "Google Pixel 4",
-        "img": "img/pixel4.png",
+        "img": "https://raw.githubusercontent.com/bobihamon/shop/main/img/pixe4.png",
         "description": "The Google Pixel 4 is a smartphone that features a 5.7-inch OLED display, dual rear cameras, and a 2,800mAh battery.",
         "price": "799.99",
         "author_id": "3",
-        "id": "3"
+        "id": "32346"
     },
     {
         "name": "Huawei P30 Pro",
-        "img": "img/p30.png",
+        "img": "https://raw.githubusercontent.com/bobihamon/shop/main/img/p30.png",
         "description": "The Huawei P30 Pro is a flagship smartphone that features a 6.47-inch OLED display, quad rear cameras, and a 4,200mAh battery.",
         "price": "899.99",
         "author_id": "1",
-        "id": "2"
+        "id": "21453"
     },
     {
         "name": "Xiaomi Mi 9",
-        "img": "img/xiaomi mi9.png",
+        "img": "https://raw.githubusercontent.com/bobihamon/shop/main/img/xiaomi mi9.png",
         "description": "The Xiaomi Mi 9 is a flagship smartphone that features a 6.39-inch Super AMOLED display, triple rear cameras, and a 3,300mAh battery.",
         "price": "499.99",
         "author_id": "2",
-        "id": "3"
+        "id": "36788"
     }
 
   ],
@@ -47,21 +47,21 @@
   "users":[
     {
         "name": "John",
-        "Img": "img/user1.jpeg",
+        "Img": "https://raw.githubusercontent.com/bobihamon/shop/main/img/user1.jpeg",
         "Surname": "Doe",
         "balance": "$500",
         "id": "1"
       },
       {
         "name": "Jane",
-        "Img": "img/user2.jpg",
+        "Img": "https://raw.githubusercontent.com/bobihamon/shop/main/img/user2.jpg",
         "Surname": "Smith",
         "balance": "$350",
         "id": "2"
       },
       {
         "name": "Mike",
-        "Img": "img/user3.jpg",
+        "Img": "https://raw.githubusercontent.com/bobihamon/shop/main/img/user3.jpg",
         "Surname": "Johnson",
         "balance": "$200",
         "id": "3"
