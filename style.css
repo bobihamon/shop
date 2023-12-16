@@ -120,7 +120,7 @@ header {
 #cart-products {
     display: flex;
     position: absolute;
-    background-color: gray;
+    background-color: rgb(71, 71, 71);
     min-width: 300px;
     top: 50px;
     right: -5px;
@@ -136,7 +136,7 @@ header {
     border: transparent solid 16px;
     position: absolute;
     top: -25px;
-    border-bottom-color: gray;
+    border-bottom-color: rgb(71, 71, 71);
     right: 5px;
 }
 
