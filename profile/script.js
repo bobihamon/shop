@@ -14,7 +14,7 @@ xhr.onload = () => {
     profile.innerHTML = `
     <img src="${user.Img}" alt="user" class="profile-img">
     <div class="text">
-        <h1${user.name}></h1>
+        <h1>${user.name}</h1>
         <h2>${user.Surname}</h2>
         <p>Balance: ${user.balance}</p>
     </div>
