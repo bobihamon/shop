@@ -47,7 +47,7 @@
   "users":[
     {
         "name": "John",
-        "Img": "https://raw.githubusercontent.com/bobihamon/shop/main/img/user1.jpeg",
+        "Img": "https://raw.githubusercontent.com/bobihamon/shop/main/img/user1.png",
         "Surname": "Doe",
         "balance": "$500",
         "id": "1"
