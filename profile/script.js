@@ -39,7 +39,7 @@ pxhr.onload = () => {
         <h2 class="product-name">${product.name}</h2>
         <p class="product-desc">${product.description}</p>
         <div class="price-bar">
-            <p class="product-price">${product.price}</p>
+            <p class="product-price">${product.price}$</p>
             <button onclick=""><i class="fa-solid fa-plus"></i></button>
         </div>
     </div>

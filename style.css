@@ -1,7 +1,7 @@
 * {
     margin: 0;
     padding: 0;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     box-sizing: border-box;
 }
 
@@ -127,7 +127,7 @@ header {
     background-color: gray;
     min-width: 300px;
     top: 50px;
-    right: -5px;
+    right: -4px;
     padding: 10px;
     border-radius: 10px;
     flex-direction: column;
@@ -139,7 +139,7 @@ header {
     content: "";
     border: transparent solid 16px;
     position: absolute;
-    top: -25px;
+    top: -23px;
     border-bottom-color: gray;
     right: 5px;
 }
@@ -160,6 +160,7 @@ header {
     color: white;
     border-radius: 10px;
     border: none;
+    cursor: default;
 
 }
 
@@ -171,4 +172,19 @@ header {
 
 span{
     color:white;
+}
+
+.cartimg{
+    border: 1px solid white;
+    background-color: white;
+    border-radius: 4px;
+}
+
+button{
+    width: 50px;
+}
+
+button:hover{
+    background-color: rgb(173, 173, 173);
+    transition: 0.2s ease-in-out;
 }

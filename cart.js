@@ -26,9 +26,9 @@ function drawCartProducts() {
     cart.forEach((el) => {
         cartProd.innerHTML += `
         <p>
-        <img src = "${el.img}">
+        <img src = "${el.img}" class = "cartimg">
         <span>${el.name}:</span>
-        <span>${el.price}:</span>
+        <span>${el.price}$</span>
         </p>
         `
     })
