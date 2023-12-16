@@ -19,7 +19,7 @@
     },
     {
         "name": "Google Pixel 4",
-        "img": "https://raw.githubusercontent.com/bobihamon/shop/main/img/pixe4.png",
+        "img": "https://raw.githubusercontent.com/bobihamon/shop/main/img/pixel4.png",
         "description": "The Google Pixel 4 is a smartphone that features a 5.7-inch OLED display, dual rear cameras, and a 2,800mAh battery.",
         "price": "799.99",
         "author_id": "3",
