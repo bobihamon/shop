@@ -23,6 +23,10 @@ header {
     border-radius: 50%;
 }
 
+#cart:hover{
+    background-color: gray;
+}
+
 .product-grid {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -81,7 +85,7 @@ header {
     display:flex;
     padding: 1rem 3rem;
     align-items: center;
-    gap: 4rem;
+    gap: 2rem;
     color:white;
     border-radius: 2rem;
 }
@@ -100,7 +104,6 @@ header {
 }
 
 .user-products{
-    background: gray;
     padding: 1rem 3rem;
     border-radius: 2rem;
 }
@@ -109,4 +112,5 @@ header {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     gap:1rem;
+    background: gray;
 }
