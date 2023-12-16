@@ -24,6 +24,10 @@ header {
     border-radius: 50%;
 }
 
+#cart:hover{
+    background-color: gray;
+}
+
 .product-grid {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -83,7 +87,7 @@ header {
     padding: 1rem 3rem;
     align-items: center;
     gap: 4rem;
-    color: white;
+    color:white;
     border-radius: 2rem;
 }
 
@@ -100,7 +104,7 @@ header {
     border-radius: 50%;
 }
 
-.user-products {
+.user-products{
     background: gray;
     padding: 1rem 3rem;
     border-radius: 2rem;
@@ -120,7 +124,7 @@ header {
 #cart-products {
     display: flex;
     position: absolute;
-    background-color: rgb(71, 71, 71);
+    background-color: gray;
     min-width: 300px;
     top: 50px;
     right: -5px;
@@ -136,7 +140,7 @@ header {
     border: transparent solid 16px;
     position: absolute;
     top: -25px;
-    border-bottom-color: rgb(71, 71, 71);
+    border-bottom-color: gray;
     right: 5px;
 }
 
